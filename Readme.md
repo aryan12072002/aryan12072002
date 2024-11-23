@@ -4,21 +4,19 @@
 </h1>
 
 <h3 align="center">
-  Hi, I'm Aryan Tayade <img width="2.5%" src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif">  
+  Hi, I'm Aryan Tayade <img width="2.5%" src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif">.  
   A passionate developer and tech enthusiast! Thanks for stopping by.
 </h3>
 
----
-
 ## 💻 **About Me**
 
-- 🎓 Graduated in **B.Tech** from **JT Mahajan College of Engineering**.
-- 💻 Experienced in **Python Development**, **Django**, and **Web Development**.
+- 🎓 Graduated in **B.Tech** from **JT Mahajan College of Engineering**.  
+- 💻 Experienced in **Python Development**, **Django**, and **Web Development**.  
 - 🌟 Completed internships in **Python Development** and **Web Development & Designing**:  
   - **Deasent Technology**: Python Developer (4 months)  
   - **Technohack**: Python Development  
-  - **Oasis**: Web Designing & Development
-- 💡 Always open to collaborating on innovative projects and new ideas!
+  - **Oasis**: Web Designing & Development  
+- 💡 Always open to collaborating on innovative projects and new ideas!  
 - ⚽ Love watching football and exploring new technologies.
 
 ---
@@ -26,15 +24,14 @@
 ## ✔ **My Skills**
 
 <p align="center">
-  ![Skills](https://skillicons.dev/icons?i=python,django,mysql,html,css,javascript,react,git,github,vscode&theme=dark)
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,javascript,react,git,github,vscode&theme=dark" />
 </p>
 
 ---
-
-## 📈 **Profile Visitors**
+---
 
 <p align="center">
-  ![Profile Visitors](https://komarev.com/ghpvc/?username=aryan-tayade&label=Visitors&color=0088cc&style=flat-square)
+  <img src="https://komarev.com/ghpvc/?username=aryan-tayade&label=Visitors&color=0088cc&style=flat-square" alt="Profile Visitors" />
 </p>
 
 ---
