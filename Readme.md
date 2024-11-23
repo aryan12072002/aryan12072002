@@ -4,74 +4,36 @@
 </h1>
 
 <h3 align="center">
-  Hey there! I'm Aryan Tayade <img width="3%" src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif">  
-  A passionate developer and tech enthusiast! Thanks for stopping by. 🌟
+  Hi, I'm Aryan Tayade <img width="2.5%" src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif">.  
+  A passionate developer and tech enthusiast! Thanks for stopping by.
 </h3>
-
----
 
 ## 💻 **About Me**
 
-- 🎓 **B.Tech Graduate** from **JT Mahajan College of Engineering**.  
-- 💻 **Python Development**, **Django**, and **Web Development** enthusiast.
-- 🌟 **Internship Experience**:  
+- 🎓 Graduated in **B.Tech** from **JT Mahajan College of Engineering**.  
+- 💻 Experienced in **Python Development**, **Django**, and **Web Development**.  
+- 🌟 Completed internships in **Python Development** and **Web Development & Designing**:  
   - **Deasent Technology**: Python Developer (4 months)  
   - **Technohack**: Python Development  
-  - **Oasis**: Web Designing & Development
-- 🔄 **Open to collaborating** on innovative projects and new ideas!  
-- ⚽ **Football** lover and always exploring new tech trends! 🚀
+  - **Oasis**: Web Designing & Development  
+- 💡 Always open to collaborating on innovative projects and new ideas!  
+- ⚽ Love watching football and exploring new technologies.
 
 ---
 
-## 🧑‍💻 **My Skills**
+## ✔ **My Skills**
 
-**Languages & Frameworks:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,javascript,react,git,github,vscode&theme=dark" />
+</p>
 
-- **Python**, **Django**, **React**, **JavaScript**, **HTML5**, **CSS3**
+---
+---
 
-**Databases & Tools:**
-
-- **MySQL**, **Git**, **GitHub**, **VSCode**
-
-![Skills](https://skillicons.dev/icons?i=python,django,mysql,html,css,javascript,react,git,github,vscode&theme=dark)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryan-tayade&label=Visitors&color=0088cc&style=flat-square" alt="Profile Visitors" />
+</p>
 
 ---
 
-## 📈 **GitHub Stats**
-
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryan-tayade&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=tokyonight)
-
----
-
-## 🚀 **Projects & Contributions**
-
-🔧 **Currently Working On**:  
-- **Bail Reckoner**: A platform to improve the bail process for under-trial prisoners in India.
-
-💡 **Notable Projects**:
-- **Real-time Weather Forecasting Website**  
-- **Social Media Website**  
-- **Portfolio Site**  
-
-Check out my repositories for more exciting work! 🌍
-
----
-
-## 💬 **Let's Connect!**
-
-I'm always open to networking and collaboration opportunities!  
-Reach out to me through:
-
-- [LinkedIn](https://www.linkedin.com/in/aryantayade)
-- [Twitter](https://twitter.com/aryan_tayade)
-- [GitHub](https://github.com/aryan-tayade)
-
----
-
-## 🎯 **Visitors Count**
-
-![Profile Visitors](https://komarev.com/ghpvc/?username=aryan-tayade&label=Visitors&color=0088cc&style=flat-square)
-
----
-
-<p align="center">Thanks for visiting! ✌️</p>
+<p align="center">That's all for now! Follow along on my journey ✌️</p>
