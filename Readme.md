@@ -13,7 +13,7 @@
 - 🎓 Graduated in **B.Tech** from **JT Mahajan College of Engineering**.  
 - 💻 Experienced in **Python Development**, **Django**, and **Web Development**.  
 - 🌟 Completed internships in **Python Development** and **Web Development & Designing**:  
-  - **Deasent Technology**: Python Developer (4 months)  
+  - **Beasent Technology**: Python Developer (4 months)  
   - **Technohack**: Python Development  
   - **Oasis**: Web Designing & Development  
 - 💡 Always open to collaborating on innovative projects and new ideas!  
