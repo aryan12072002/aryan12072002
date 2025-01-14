@@ -24,7 +24,7 @@
 ## ✔ **My Skills**
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=python,restframwork,django,mysql,postgres,html,css,bootstrap,tailwind,javascript,git,github,vscode&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=python,django,mysql,postgres,html,css,bootstrap,tailwind,javascript,git,github,vscode&theme=dark" />
 </p>
 
 ---
