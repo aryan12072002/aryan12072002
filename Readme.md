@@ -33,35 +33,24 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryantayade&show_icons=true&theme=radical&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryantayade&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan12072002&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan12072002&theme=radical&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryantayade&layout=compact&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan12072002&layout=compact&theme=radical&hide_border=true" width="49%" />
 </p>
 
 ---
 
 ## 🏆 **GitHub Achievements**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryantayade&theme=radical&no-bg=true&no-frame=true&margin-w=10" />
+  <img src="https://github-aryan12072002-trophy.vercel.app/?username=aryantayade&theme=radical&no-bg=true&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 📫 **Let's Connect!**
-<p align="center">
-  <a href="https://github.com/aryantayade">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aryantayade">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
 
 ---
 
