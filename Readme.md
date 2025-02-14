@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=3000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=Hello+there%2C+I'm+Aryan!;Hola%2C+soy+Aryan!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%82%A2%E3%83%AA%E3%82%A2%E3%83%B3%E3%81%A7%E3%81%99%EF%BC%81;Bonjour%2C+je+suis+Aryan!;Cze%C5%9B%C4%87%2C+jestem+Aryan!;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%90%D1%80%D1%8C%D1%8F%D0%BD!;Ol%C3%A1%2C+eu+sou+Aryan!" 
-       alt="Typing SVG" />
+<<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Hello+there%2C+I'm+Aryan!;Hola%2C+soy+Aryan!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%82%A2%E3%83%AA%E3%82%A2%E3%83%B3%E3%81%A7%E3%81%99%EF%BC%81;Bonjour%2C+je+suis+Aryan!;Cze%C5%9B%C4%87%2C+jestem+Aryan!;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%90%D1%80%D1%8C%D1%8F%D0%BD!;Ol%C3%A1%2C+eu+sou+Aryan!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
