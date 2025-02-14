@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" width="5%" />  
+  <img src="https://tenor.com/view/happy-doggo-doggy-white-and-orange-dog-hola-gif-15515840703538664488" width="5%" />  
   <strong>Hi, I'm Aryan Tayade.</strong>  
   <br>  
   A passionate developer, problem solver, and tech enthusiast! Thanks for stopping by.  
