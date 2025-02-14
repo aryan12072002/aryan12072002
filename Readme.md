@@ -45,7 +45,7 @@
 
 ## 🏆 **GitHub Achievements**
 <p align="center">
-  <img src="https://github-aryan12072002-trophy.vercel.app/?username=aryan12072002&theme=radical&no-bg=true&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aryan12072002&theme=radical&no-bg=true&no-frame=true&margin-w=10" />
 </p>
 
 ---
