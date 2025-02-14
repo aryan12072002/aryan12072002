@@ -33,28 +33,29 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryantayade&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryantayade&theme=radical&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryantayade&layout=compact&theme=radical&hide_border=true" width="49%" />
 </p>
 
 ---
 
 ## 🏆 **GitHub Achievements**
 <p align="center">
-  <img src="https://github-profile
+  <img src="https://github-profile-trophy.vercel.app/?username=aryantayade&theme=radical&no-bg=true&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
 ## 📫 **Let's Connect!**
 <p align="center">
-  <a href="https://github.com/aryan-tayade">
+  <a href="https://github.com/aryantayade">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/aryan-tayade">
+  <a href="https://www.linkedin.com/in/aryantayade">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
@@ -66,7 +67,7 @@
 
 ## 👀 **Profile Views**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryan-tayade&label=Visitors&color=0088cc&style=flat-square" alt="Profile Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=aryantayade&label=Visitors&color=0088cc&style=flat-square" alt="Profile Visitors" />
 </p>
 
 ---
