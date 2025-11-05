@@ -8,7 +8,7 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 🎓 **B.Tech Graduate** from **JT Mahajan College of Engineering** — passionate about turning ideas into scalable digital solutions.  
 
