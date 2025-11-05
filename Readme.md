@@ -8,15 +8,17 @@
 
 ---
 
-## 🚀 **About Me**
-- 🎓 Graduated in **B.Tech** from **JT Mahajan College of Engineering**.  
-- 💻 **Python Developer** with expertise in **Django**, **Web Development**, and **Backend Systems**.  
-- 🌟 Completed internships in **Python Development** and **Web Development & Designing**:
-  - **Beasent Technology**: Python Developer (4 months)  
-  - **Technohack**: Python Development  
-  - **Oasis**: Web Designing & Development  
-- 💡 Always open to collaborating on innovative projects and brainstorming new ideas!  
-- ⚽ **Football lover** and always exploring **new technologies**.  
+# 🚀 About Me
+
+🎓 **B.Tech Graduate** from **JT Mahajan College of Engineering** — passionate about turning ideas into scalable digital solutions.  
+
+💻 **Python Developer** specializing in **Django**, **REST APIs**, and **Backend Architecture** — building robust, clean, and efficient web applications.  
+
+🚧 Currently exploring **Cloud Integration**, **Automation**, and **Scalable Backend Systems**.  
+
+💬 Love collaborating on open-source projects, solving real-world problems, and learning from the dev community.  
+
+🌟 *"Build. Break. Learn. Repeat."*
 
 ---
 
