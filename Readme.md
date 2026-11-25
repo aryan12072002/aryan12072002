@@ -255,77 +255,26 @@ real-world engineering problems.
 
 ---
 
+
 # 💻 What I Build
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <h3>🐍 Python</h3>
-      Backend & Automation
-    </td>
-
-    <td align="center" width="25%">
-      <h3>🌐 Django</h3>
-      REST APIs & SaaS
-    </td>
-
-    <td align="center" width="25%">
-      <h3>⚡ FastAPI</h3>
-      High Performance APIs
-    </td>
-
-    <td align="center" width="25%">
-      <h3>🤖 AI/ML</h3>
-      LLM & RAG Systems
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <h3>📱 Flutter</h3>
-      Mobile Applications
-    </td>
-
-    <td align="center">
-      <h3>📲 Android</h3>
-      Android Development
-    </td>
-
-    <td align="center">
-      <h3>🧠 LangChain</h3>
-      AI Applications
-    </td>
-
-    <td align="center">
-      <h3>🔎 Vector DB</h3>
-      Semantic Search & RAG
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <h3>🍃 MongoDB</h3>
-      NoSQL Applications
-    </td>
-
-    <td align="center">
-      <h3>🐘 PostgreSQL</h3>
-      Relational Data
-    </td>
-
-    <td align="center">
-      <h3>🐳 Docker</h3>
-      Containerization
-    </td>
-
-    <td align="center">
-      <h3>☁️ Cloud</h3>
-      AWS & Azure
-    </td>
-  </tr>
-</table>
+| Technology | What I Build |
+|---|---|
+| 🐍 **Python** | Backend development, automation, and data processing |
+| 🌐 **Django** | REST APIs, scalable web applications, and SaaS platforms |
+| ⚡ **FastAPI** | High-performance APIs and backend services |
+| 🤖 **AI/ML** | LLM applications, RAG systems, and intelligent automation |
+| 📱 **Flutter** | Cross-platform mobile applications |
+| 📲 **Android** | Native Android applications and mobile development |
+| 🧠 **LangChain** | LLM integration, AI agents, and RAG applications |
+| 🔎 **Vector Databases** | Semantic search, embeddings, and retrieval systems |
+| 🍃 **MongoDB** | NoSQL applications and document-based data storage |
+| 🐘 **PostgreSQL** | Relational databases, data modeling, and query optimization |
+| 🐳 **Docker** | Containerization and application deployment |
+| ☁️ **Cloud** | AWS, Azure, and scalable cloud infrastructure |
 
 ---
+
 
 # 🎯 Fun Fact
 
